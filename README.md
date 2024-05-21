@@ -1,4 +1,6 @@
 # GameDropHouse
+Phát triển Tower Stack, một trò chơi xây tháp dựa trên vật lý, thách thức người chơi xây dựng tòa tháp cao nhất.
+Skill: Cơ chế xếp chồng, đặt vật thể dựa trên vật lý, hoạt ảnh cho việc xây dựng và rơi tháp.
 ![image](https://github.com/whatthe1332/GameDropHouse/assets/96509558/cd60a767-4377-41a2-91f1-1bfa224787c8)
 ![image](https://github.com/whatthe1332/GameDropHouse/assets/96509558/cac824c2-5efd-4f05-81c0-16bdd3fcb6c7)
 ![image](https://github.com/whatthe1332/GameDropHouse/assets/96509558/e23ce9c4-f3fc-4da9-a433-be45c58e1a07)
